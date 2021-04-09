@@ -1,13 +1,13 @@
 Algoritmo   Calcular_Edad
 	Definir Nombre Como Caracter
-	Definir AÑO1, AÑO2 Como Entero
+	Definir year1, year2 Como Entero
 	Escribir  "Digite Nombre: "
 	Leer Nombre
-	Escribir "Digite año actual: "
-	Leer AÑO1
+	Escribir "Digite year actual: "
+	Leer year1
 	Escribir "Digite edad: "
-	Leer AÑO2
-	Resta<-AÑO1-AÑO2
-	Escribir "El año en que nació es: " Resta
+	Leer year2
+	Resta<-year1-year2
+	Escribir "El year en que nació es: " Resta
 	
 FinAlgoritmo
